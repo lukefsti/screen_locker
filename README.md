@@ -25,3 +25,9 @@ The application provides feedback via console logs, primarily in German.
 To create a new executable, run:
 ```bash
 pyinstaller app.spec
+
+## To-Do List:
+- [ ] Run on startup
+- [ ] Suppress command window
+- [ ] Operate as a service
+- [ ] Taskbar integration: right-click to display logs, enable/disable, restart, access settings.
